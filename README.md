@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there, I'm Nikolay
+  <img alt='Hi' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">
+  Frontend-developer, computer science student.
+</h3>
+<div align='center'>
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,html,css,ts,git,react,redux' />
+<div/>
 
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
