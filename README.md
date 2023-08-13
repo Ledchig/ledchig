@@ -6,9 +6,8 @@
   Frontend-developer, computer science student.
 </h3>
 <div align='center'>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,html,css,ts,git,react,redux' />
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=git,html,css,js,ts,react,redux' />
 <div/>
-
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
