@@ -38,6 +38,9 @@
 </h3>
 <ul>
   <li>
+    <a href="https://github.com/Ledchig/test_frontend_vefatso">Hacker news</a>
+  </li>
+  <li>
     <a href="https://github.com/Ledchig/frontend-challenge">For uchi.ru</a>
   </li>
   <li>
