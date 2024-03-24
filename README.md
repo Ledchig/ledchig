@@ -13,7 +13,7 @@
 </h3>
 <ul>
   <li>
-    <a href="https://ledchig-runit.onrender.com/landing">New landing for runit.hexlet</a>
+    <a href="https://ledchig-runit.onrender.com/landing">New landing for runit.hexlet (react)</a>
   </li>
 </ul>
 <h3>
@@ -21,16 +21,16 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/Ledchig/chat">Chat</a>
+    <a href="https://github.com/Ledchig/chat">Chat (react)</a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/RSS-viewer">RSS viewer</a>
+    <a href="https://github.com/Ledchig/RSS-viewer">RSS viewer (only JS without frameworks)</a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/difference-calculator">Differense calculator</a>
+    <a href="https://github.com/Ledchig/difference-calculator">Differense calculator (app for console)</a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/five-brain-games">Five console brain games</a>
+    <a href="https://github.com/Ledchig/five-brain-games">Five console brain games (app for console)</a>
   </li>
 </ul>
 <h3>
@@ -38,16 +38,19 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/Ledchig/test_frontend_vefatso">Hacker news</a>
+    <a href="https://github.com/Ledchig/test_front_artsofte">For artsofte (angular)</a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/frontend-challenge">For uchi.ru</a>
+    <a href="https://github.com/Ledchig/test_frontend_vefatso">For vefatso (next.js)</a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/jetstyle-yellow-test">For jetstyle</a>
+    <a href="https://github.com/Ledchig/frontend-challenge">For uchi.ru (next.js)</a>
+  </li>
+  <li>
+    <a href="https://github.com/Ledchig/jetstyle-yellow-test">For jetstyle (react and express.js)</a>
   </li>
     <li>
-    <a href="https://github.com/Ledchig/challenge-rulyou">For rulyou.ru</a>
+    <a href="https://github.com/Ledchig/challenge-rulyou">For rulyou.ru (vue)</a>
   </li>
 </ul>
 <div align='left'>
