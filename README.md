@@ -55,7 +55,7 @@
 </ul>
 <div align='left'>
   <h3>I know:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,nuxtjs,expressjs,nestjs' />
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,docker' />
 <div/>
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
