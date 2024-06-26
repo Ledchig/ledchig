@@ -13,7 +13,9 @@
 </h3>
 <ul>
   <li>
-    <a href="https://ledchig-runit.onrender.com/landing">New landing for runit.hexlet (react)</a>
+    <a href="https://github.com/ai/nanoid/pull/486">NanoID move benchmark to tinybench (Node.js)</a>
+  <li>
+    <a href="https://runit.hexlet.ru/">New landing for runit.hexlet (React)</a>
   </li>
 </ul>
 <h3>
