@@ -40,6 +40,9 @@
 </h3>
 <ul>
   <li>
+    <a href="https://github.com/Ledchig/test_career-workshop">For Карьерный цех (React, Firebase)</a>
+  </li>
+  <li>
     <a href="https://github.com/Ledchig/test_front_artsofte">For artsofte (angular)</a>
   </li>
   <li>
