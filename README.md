@@ -40,22 +40,32 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/Ledchig/test_career-workshop">For Карьерный цех (React, Firebase)</a>
+    <a href="https://github.com/Ledchig/test_career-workshop">For Карьерный цех (React, Firebase)
+    </a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/test_front_artsofte">For artsofte (angular)</a>
+    <a href="https://github.com/Ledchig/test_TargemGame">For Targem games (Node)
+    </a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/test_frontend_vefatso">For vefatso (next.js)</a>
+    <a href="https://github.com/Ledchig/test_front_artsofte">For artsofte (Angular)
+    </a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/frontend-challenge">For uchi.ru (next.js)</a>
+    <a href="https://github.com/Ledchig/test_frontend_vefatso">For vefatso (NextJS)
+    </a>
   </li>
   <li>
-    <a href="https://github.com/Ledchig/jetstyle-yellow-test">For jetstyle (react and express.js)</a>
+    <a href="https://github.com/Ledchig/frontend-challenge">For uchi.ru (NextJS)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Ledchig/jetstyle-yellow-test">For jetstyle (React and ExpressJS)
+    </a>
   </li>
     <li>
-    <a href="https://github.com/Ledchig/challenge-rulyou">For rulyou.ru (vue)</a>
+    <a href="https://github.com/Ledchig/challenge-rulyou">For rulyou.ru (Vue)
+    </a>
   </li>
 </ul>
 <div align='left'>
