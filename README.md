@@ -69,6 +69,10 @@
   </li>
 </ul>
 <div align='left'>
+  <h3>I have experience:</h3>
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs' />
+<div/>
+<div align='left'>
   <h3>I know:</h3>
   <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,docker' />
 <div/>
