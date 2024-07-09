@@ -1,9 +1,9 @@
 <h1>
-  Hi there
+  Hi!
   <img alt='Hi' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <p>
-  My name is Nikolay, I am Frontend-developer and computer science student. I like Tailwind and Vue.
+  My name is Nikolay, I am Frontend-developer and computer science student. I have experience with nextjs, but I would be interested in working with Vue or Angular. I prefer Tailwind. I'm currently learning databases and NodeJS.
 </p>
 <p>
   I am open to work remotely or Yekaterinburg
@@ -70,11 +70,11 @@
 </ul>
 <div align='left'>
   <h3>I have experience:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs' />
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,redux' />
 <div/>
 <div align='left'>
-  <h3>I know:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,docker' />
+  <h3>I also know:</h3>
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=vue,nuxtjs,angular,nodejs' />
 <div/>
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
