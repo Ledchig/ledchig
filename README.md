@@ -76,10 +76,6 @@
   <h3>I have experience:</h3>
   <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,redux' />
 <div/>
-<div align='left'>
-  <h3>I also know:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=vue,nuxtjs,angular,nodejs' />
-<div/>
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
