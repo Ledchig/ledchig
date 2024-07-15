@@ -40,6 +40,10 @@
 </h3>
 <ul>
   <li>
+    <a href="https://github.com/Ledchig/test_3205">For 3205 (NextJS, NestJS)
+    </a>
+  </li>
+  <li>
     <a href="https://github.com/Ledchig/test_career-workshop">For Карьерный цех (React, Firebase)
     </a>
   </li>
