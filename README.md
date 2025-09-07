@@ -3,7 +3,7 @@
   <img alt='Hi' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <p>
-  My name is Nikolay, I am Frontend-developer and computer science student. I have experience with nextjs, but I would be interested in working with Vue or Angular. I prefer Tailwind. I'm currently learning databases and NodeJS.
+  Recently, I’ve been working with Canvas, mainly using Fabric.js. My main experience is related to React and its ecosystem. I’m also open to Vue and have a desire to dive into backend development.
 </p>
 <p>
   I am open to work remotely or Yekaterinburg
