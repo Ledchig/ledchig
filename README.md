@@ -18,6 +18,11 @@
     <a href="https://runit.hexlet.ru/">New landing for runit.hexlet (React)</a>
   </li>
 </ul>
+<div align='left'>
+  <h3>I have experience:</h3>
+  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,redux' />
+<div/>
+
 <!--
 <h3>
   My learning projects:
@@ -77,10 +82,6 @@
     </a>
   </li>
 </ul>
-<div align='left'>
-  <h3>I have experience:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,redux' />
-<div/>
 <!--
 **Ledchig/ledchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
