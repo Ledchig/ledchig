@@ -18,6 +18,7 @@
     <a href="https://runit.hexlet.ru/">New landing for runit.hexlet (React)</a>
   </li>
 </ul>
+<!--
 <h3>
   My learning projects:
 </h3>
