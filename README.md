@@ -15,7 +15,7 @@
   <li>
     <a href="https://github.com/ai/nanoid/pull/486">NanoID move benchmark to tinybench (Node.js)</a>
   <li>
-    <a href="https://runit.hexlet.ru/">New landing for runit.hexlet (React)</a>
+    <a href="https://github.com/hexlet-rus/runit/pull/362/">New landing for runit.hexlet (React)</a>
   </li>
 </ul>
 <div align='left'>
