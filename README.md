@@ -1,28 +1,55 @@
-<h1>
-  Hi!
-  <img alt='Hi' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-<p>
-  Recently, I’ve been working with Canvas, mainly using Fabric.js. My main experience is related to React and its ecosystem. I’m also open to Vue and have a desire to dive into backend development.
-</p>
-<p>
-  I am open to work remotely or Yekaterinburg
-</p>
-<h3>
-  Accepted pull-requests in opensource:
-</h3>
-<ul>
-  <li>
-    <a href="https://github.com/ai/nanoid/pull/486">NanoID move benchmark to tinybench (Node.js)</a>
-  <li>
-    <a href="https://github.com/hexlet-rus/runit/pull/362/">New landing for runit.hexlet (React)</a>
-  </li>
-</ul>
-<div align='left'>
-  <h3>I have experience:</h3>
-  <img alt='skills-icons' src='https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,redux' />
-<div/>
+## 👋 Hi, I’m Nikolay
 
+### 💻 Tech
+Mainly working with **React** and **Next.js**.  
+For the last six months — experimenting with **Canvas (FabricJS)**.  
+Interested in **Vue**. I like the **shadcn** approach to components and **Tailwind CSS** for styling.  
+Currently learning **Go** for broader understanding and exploring **open-source projects**.
+
+### 🧠 Soft Skills
+Before development, I worked in **sales and management** — so I feel comfortable communicating with both the **business side** and the **team**.  
+Experience in **startups** taught me not to fear vague tasks and to ask the right questions.
+
+### 🎾 Hobbies
+Outside of work: I read **science fiction**, play **tennis**, and **run**.
+
+### 📚 Books I’ve Enjoyed
+- *CSS in Depth* — Keith J. Grant  
+- *You Don’t Know JS* (series) — Kyle Simpson  
+- *Grokking Algorithms* — Aditya Bhargava  
+- *Go: Design Patterns and Idioms* — John Bodner  
+- *Computer Science Distilled: Learning Theory in Small Bites* — Wladston Ferreira Filho  
+- *Computer Science Unleashed: Networks, Cryptography, and Data Science* — Wladston Ferreira Filho  
+- *Code: The Hidden Language of Computer Hardware and Software* — Charles Petzold  
+
+### 🎯 Goals
+I’m looking to join a **product-oriented company** with **remote work** and a path toward a **Tech Lead** role.
+
+---
+
+### 🧩 Accepted Pull Requests in Open Source
+- [NanoID — move benchmark to tinybench (Node.js)](https://github.com/ai/nanoid/pull/486)
+- [Runit.Hexlet — new landing (React)](https://github.com/hexlet-rus/runit/pull/362)
+
+---
+
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,go" alt="skills-icons" />
+</div>
+
+---
+
+### 📫 Contact
+- Telegram: [@ledchig](https://t.me/ledchig)
+
+<!--
+---
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lechig&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+-->
 <!--
 <h3>
   My learning projects:
