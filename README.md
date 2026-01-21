@@ -14,6 +14,7 @@ Experience in **startups** taught me not to fear vague tasks and to ask the righ
 Outside of work: I read **science fiction**, play **tennis**, and **run**.
 
 ### 📚 Books I’ve Enjoyed
+- *Learning Vue* by Maya Shavin
 - *CSS in Depth* — Keith J. Grant  
 - *You Don’t Know JS* (series) — Kyle Simpson  
 - *Grokking Algorithms* — Aditya Bhargava  
