@@ -2,8 +2,8 @@
 
 ### 💻 Tech
 Mainly working with **React** and **Next.js**.  
-For the last six months — experimenting with **Canvas (FabricJS)**.  
-Interested in **Vue**. I like the **shadcn** approach to components and **Tailwind CSS** for styling.  
+For the last time — experimenting with **Canvas (FabricJS)**.  
+Interested in **Vue** and **Svelte**. I like the **shadcn** approach to components and **Tailwind CSS** for styling.  
 Currently learning **Go** for broader understanding and exploring **open-source projects**.
 
 ### 🧠 Soft Skills
