@@ -1,10 +1,7 @@
 ## 👋 Hi, I’m Nikolay
 
 ### 💻 Tech
-Mainly working with **React** and **Next.js**.  
-For the last time — experimenting with **Canvas (FabricJS)**.  
-Interested in **Vue** and **Svelte**. I like the **shadcn** approach to components and **Tailwind CSS** for styling.  
-Currently learning **Go** for broader understanding and exploring **open-source projects**.
+I've worked primarily with **React** and **Next.js**, and I've built a board on **canvas** with **Fabric.js**. I've also had projects with **Vue**. I'm curious to try **Svelte** on a real project. I like the **shadcn** approach for components and **tailwind** for styles.Currently learning **Go** for broader understanding and exploring **open-source projects**.
 
 ### 🧠 Soft Skills
 Before development, I worked in **sales and management** — so I feel comfortable communicating with both the **business side** and the **team**.  
